@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "200202249001",
+    "project_id": "servidomi-app",
+    "storage_bucket": "servidomi-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200202249001:android:f33dfe57f3c00ae3a00d38",
+        "android_client_info": {
+          "package_name": "com.sti.flutterservidomisti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200202249001-3dnvevk0clgq0a8hio8ht466nf9cu9ef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sti.flutterservidomisti",
+            "certificate_hash": "a867725be0c581858369ed3d4253635f6cbfec80"
+          }
+        },
+        {
+          "client_id": "200202249001-q6fall93d2sd564fjrj1m16adf007jak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxxsyW2KQ2LVjociqaL2a65EoNbomgbUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200202249001-q6fall93d2sd564fjrj1m16adf007jak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
